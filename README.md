@@ -51,6 +51,7 @@
 ### Graphs:
 ![image](https://user-images.githubusercontent.com/81925727/131719852-a1aa7a69-b5be-42b7-b709-04cf66c571f3.png)
 
+![image](https://user-images.githubusercontent.com/81925727/131720238-866a5b89-fa66-412d-98ce-5258544c06c7.png)
 
 ### Results:
 
