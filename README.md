@@ -49,6 +49,8 @@
 3. Go to http://0.0.0.0:3001/
 
 ### Graphs:
+![image](https://user-images.githubusercontent.com/81925727/131719852-a1aa7a69-b5be-42b7-b709-04cf66c571f3.png)
+
 
 ### Results:
 
