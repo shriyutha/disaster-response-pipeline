@@ -55,4 +55,8 @@
 
 ### Results:
 
+![image](https://user-images.githubusercontent.com/81925727/131721031-29834a7a-5ffb-4932-9597-ace94eb64129.png)
+
+
 ### Acknowledgement and License:
+* Thanks to Udacity for providing such an excellent Data Science Nanodegree Program.
