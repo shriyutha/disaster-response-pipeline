@@ -54,9 +54,11 @@
 ![image](https://user-images.githubusercontent.com/81925727/131720238-866a5b89-fa66-412d-98ce-5258544c06c7.png)
 
 ### Results:
+* Once a disaster message is submitted and the Classify Message button is clicked, the app shows the classification of the message by highlighting the categories in light green colour.
+
+* The image below shows the result of the app after the message:  We need water, food, tents and cloths. The obtained categories are: Request, Aid Related, Water, Food, shelter, clothing and direct.
 
 ![image](https://user-images.githubusercontent.com/81925727/131721031-29834a7a-5ffb-4932-9597-ace94eb64129.png)
-
 
 ### Acknowledgement and License:
 * Thanks to Udacity for providing such an excellent Data Science Nanodegree Program.
